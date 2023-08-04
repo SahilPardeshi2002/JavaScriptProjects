@@ -1,0 +1,47 @@
+body{
+    background-color: #3F2E3E;
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Sacramento', cursive;
+}
+.title{
+    color: #97FEED;
+    font-family: 'Lobster', 'cursive';
+    font-size: 3rem; 
+    text-align: center;
+}
+.diceimage{
+    height: 180px;
+    width: 180px;
+}
+.Dice1{
+    text-align: center;
+    width: 60rem;
+    padding-top: 2rem;
+    margin: 1rem;
+}
+
+.Dice2{
+    text-align: center;
+    float:right;
+    width: 60rem;
+    position: absolute;
+    top: 15.5rem;
+    left: 35rem;
+    padding-top: 2rem;
+}
+
+.players{
+    color: #97FEED;
+    font-size: 2rem;
+    font-family: 'Indie Flower', cursive;
+    font-weight: 500;
+}
+footer{
+    text-align: center;
+    margin-top: 4rem;
+    font-family: 'Indie Flower', cursive;
+    color: #97FEED;
+}
